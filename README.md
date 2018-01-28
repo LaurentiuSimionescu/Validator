@@ -13,7 +13,7 @@ repositories {
 }
     
 dependencies {
-  implementation 'com.github.LaurentiuSimionescu:Validator:1.0'
+  implementation 'com.github.LaurentiuSimionescu.Validator.validator:1.0'
 }
 ```
   - Maven
@@ -26,8 +26,8 @@ dependencies {
 </repositories>
 
 <dependency>
-  <groupId>com.github.LaurentiuSimionescu</groupId>
-  <artifactId>Validator</artifactId>
+  <groupId>com.github.LaurentiuSimionescu.Validator</groupId>
+  <artifactId>validator</artifactId>
   <version>-1.0</version>
 </dependency>
 ```
