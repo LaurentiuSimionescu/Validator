@@ -3,7 +3,7 @@
   <img src="https://github.com/LaurentiuSimionescu/Validator/blob/master/v.png" width="150"/>
 </p>
 
-This library is written in pure Java and can be used in Java projects or Android projects. It offers easy validation for credit cards, email, password, zip code, url, date etc.
+This library is written in pure Java and can be used in Android projects. It offers easy validation for credit cards, email, password, zip code, url, date etc.
 
 # Download
   - Gradle
